@@ -1,4 +1,6 @@
 # Dry-and-Wet-Waste-Segregator
+-Dry wet waste.ipynb has model which I trained 
+-waste_management.ipynb has various images classified through that model.
 Project Overview:
 This project focuses on developing an AI-based waste classification system using Convolutional Neural Networks (CNNs) to automatically classify waste into wet and dry categories. The model was trained on a custom dataset and achieved 79.9% validation accuracy, demonstrating its potential for smart waste management solutions.
 
